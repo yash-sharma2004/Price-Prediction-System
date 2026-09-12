@@ -4,6 +4,7 @@ name = "price-prediction"
 version = "0.1.0"
 description = "Price Prediction System using Machine Learning and Streamlit"
 requires-python = ">=3.11,<3.14"
+requires-python = ">=3.11"
 dependencies = [
     "category-encoders>=2.10.0",
     "joblib>=1.6.0",
