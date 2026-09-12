@@ -9,6 +9,8 @@ dependencies = [
     "pandas>=2.2.0",
     "scikit-learn>=1.5.0",
     "streamlit>=1.40.0",
+    "xgboost    >=3.4.1",
+
 ]
 
 [build-system]
