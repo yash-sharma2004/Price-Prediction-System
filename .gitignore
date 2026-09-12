@@ -23,7 +23,7 @@ __pycache__/
 Thumbs.db
 
 # Large model files
-*.pkl
+# *.pkl
 *.joblib
 *.h5
 *.pt
