@@ -2,7 +2,7 @@
 name = "price-prediction"
 version = "0.1.0"
 description = "Price Prediction System using Machine Learning and Streamlit"
-requires-python = ">=3.11"
+requires-python = ">=3.12"
 dependencies = [
     "category-encoders>=2.10.0",
     "joblib>=1.6.0",
@@ -10,7 +10,6 @@ dependencies = [
     "scikit-learn>=1.5.0",
     "streamlit>=1.40.0",
     "xgboost>=3.4.1",
-
 ]
 
 [build-system]
